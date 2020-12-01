@@ -8,6 +8,7 @@ class GitIdeaApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("提交");
     }
 
 }
