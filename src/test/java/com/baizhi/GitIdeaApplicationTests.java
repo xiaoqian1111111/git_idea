@@ -10,6 +10,7 @@ class GitIdeaApplicationTests {
     void contextLoads() {
         System.out.println("提交");
         System.out.println("小晴");
+        System.out.println("123");
     }
 
 }
