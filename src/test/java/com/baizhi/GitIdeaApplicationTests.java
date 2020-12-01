@@ -9,6 +9,7 @@ class GitIdeaApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("提交");
+        System.out.println("刘琛");
     }
 
 }
